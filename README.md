@@ -1,2 +1,2 @@
 # openqueue-ui-console
-Console for queue owner to monitor and control the queue.
+Console for queue owners to monitor and control the queue.
